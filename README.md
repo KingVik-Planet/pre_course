@@ -1,1 +1,1 @@
-Thank you Alx
+This is pre learning of GitHub
